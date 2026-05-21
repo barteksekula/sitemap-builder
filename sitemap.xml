@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bartoszsekula.com</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/_next/static/chunks/webpack-28852a6be0d47523.js</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/_next/static/css/c01ab97b71628947.css</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/_next/static/media/f980ec13b5b5e554.p.woff2</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/_next/static/media/ec1a1eae803b668e-s.p.woff2</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/rss</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/rss</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/2019/10/14/editing-enhancements-for-the-episerver-forms-package</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/side-by-side-editing-stable-release</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/2019/10/13/nice-improvement-for-the-inline-editing-feature</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/2015/04/27/Ambiguous-match-found-thrown-from-ContentDataMetadataProvider</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/how-to-add-admin-mode-addon-in-optimizely-episerver-cms12</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/editing-enhancements-for-the-episerver-forms-package/inline_edit_form.gif</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/2018/09/17/how-to-change-the-delay-between-subsequent-saves-in-episerver-tinymce</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/side-by-side-editing</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/useful-optimizely-web-components</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/how-to-add-admin-mode-addon-in-optimizely-episerver-cms12/empty-view.png</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/how-to-add-admin-mode-addon-in-optimizely-episerver-cms12/menu-entry.png</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/2024/08/08/how-to-hide-reports-from-the-global-menu-in-optimizely-cms</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/2018/04/27/how-to-create-a-custom-login-page-in-episerver-mvc-with-owin</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/Ambiguous-match-found-thrown-from-ContentDataMetadataProvider/code.png</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/Ambiguous-match-found-thrown-from-ContentDataMetadataProvider/ambiguous_match.png</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/2018/05/03/how-to-support-a-locale-with-a-specific-regioncode-for-example-en-gb-en-nz-or-en-au</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/useful-optimizely-web-components/after.jpg</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/useful-optimizely-web-components/before.jpg</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/side-by-side-editing/menu-option.png</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/2017/08/11/customizing-tinymce-styles-dropdown-programatically</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/side-by-side-editing/side-by-side-editing.png</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/post/2017/09/04/how-to-run-episerver-from-console</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/how-to-support-a-locale-with-a-specific-regioncode-for-example-en-gb-en-nz-or-en-au/form_submissions.png</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/customizing-tinymce-styles-dropdown-programatically/tinymce_site2.gif</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/how-to-support-a-locale-with-a-specific-regioncode-for-example-en-gb-en-nz-or-en-au/language_settings.png</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/useful-optimizely-web-components/content-tree.gif</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/how-to-run-episerver-from-console/running_tasks.gif</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/customizing-tinymce-styles-dropdown-programatically/tinymce_site1.png</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/nice-improvement-for-the-inline-editing-feature/double_click_inline_edit.gif</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/side-by-side-editing/side-by-side-editing2-no-refresh.gif</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/side-by-side-editing-stable-release/side-by-side-stable.gif</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bartoszsekula.com/side-by-side-editing/side-by-side-editing1.gif</loc>
+    <lastmod>21/05/2026 08:37:04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>
